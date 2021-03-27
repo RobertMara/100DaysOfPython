@@ -1,0 +1,6 @@
+/venv
+/guess.egg-info
+__pycache__
+*.lnk
+*.docx
+*.*~
